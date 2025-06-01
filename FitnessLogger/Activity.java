@@ -1,5 +1,4 @@
-
-public abstract class Activity implements Comparable<Activity> { //Activity implements the Comparable interface 
+public abstract class Activity implements Comparable<Activity> { //Activity implements the Comparable interface
 	//attributes of Activity class
 	private static int activityCounter = 0;
 	protected final int activityID;

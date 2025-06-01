@@ -1,5 +1,3 @@
-
-
 import java.util.Objects;
 
 public class Run extends Activity { //Run class inherits the attributes from Activity class 

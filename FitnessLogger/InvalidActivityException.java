@@ -1,6 +1,4 @@
-
-
-//exception class that is used by the constructors of Run and Swim classes for unsuitable parameters 
+//exception class that is used by the constructors of Run and Swim classes for unsuitable parameters
 
 @SuppressWarnings("serial")
 

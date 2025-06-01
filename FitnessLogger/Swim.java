@@ -1,5 +1,3 @@
-
-
 import java.util.Objects;
 
 public class Swim extends Activity { //Swim class inherits the attributes from Activity class 
